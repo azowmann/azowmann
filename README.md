@@ -1,4 +1,6 @@
 ## Hi there 👋, I'm Alan Zhou
-** Honours Computer Science Student at McMaster University
+** Honours Computer Science Student at McMaster University interested in all things ML and Data!
 
-🔗 [LinkedIn Badge](#) *(https://www.linkedin.com/in/alan-zhou-893481246/)*  
+- I’m currently learning Machine Learning on top of Data Engineering!
+- Reach me by email! [alanzhou531@gmail.com]
+-
